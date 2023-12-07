@@ -24,6 +24,3 @@ FF Explore now supports editing database
 **TO SAVE FILE: hit Ctrl + S (or Cmd + S on Mac)**
 
 **To edit a column: double click on it**
-
-## Like my work?
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I71FSC5)
