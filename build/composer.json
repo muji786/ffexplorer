@@ -1,6 +1,6 @@
 {
     "require-dev": {
-        "joomla/archive": "^5",
-        "joomla/filesystem": "^5"
+        "joomla/archive": "^3",
+        "joomla/filesystem": "^3"
     }
 }
