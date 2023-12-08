@@ -27,7 +27,7 @@
     "element-ui": "^2.15.6",
     "lodash": "^4.17.21",
     "vue": "^2.6.14",
-    "vue-context": "^5.1.0",
+    "vue-context": "^6.0.0",
     "vuedraggable": "^2.24.3",
     "vuex": "^3.6.2"
   }
